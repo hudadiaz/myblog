@@ -1,0 +1,7 @@
+<div class="entry-excerpt">
+  {% if post.title %}
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+  {% endif %}
+  <p class="meta">{{ post.date | date_to_string }}</p>
+  <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+</div>

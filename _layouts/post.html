@@ -1,0 +1,16 @@
+---
+layout: default
+description: {{ content | strip_html | truncatewords: 50 }}
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+{% if page.tags %}
+  {% include tags.html %}
+{% endif %}
+
+{{ content }}
+
+{% include page-nav.html %}
+
+{% include disqus.html %}

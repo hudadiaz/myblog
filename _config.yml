@@ -1,0 +1,19 @@
+# Setup
+title:        Zaid Huda
+tagline:      that's the name
+description:  A dreamless selfless narcissist music loving programmer that has trouble programming and socializing.
+baseurl:      ""
+paginate:     5
+paginate_path: "/blog/page:num"
+
+# About/contact
+author:
+  name:       Zaid Huda
+  url:        https://zaidhuda.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

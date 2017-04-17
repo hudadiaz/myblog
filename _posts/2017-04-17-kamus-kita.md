@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Kamus Kita
+title: KamusKita
 ---
 
 TLDR: I made an Urban Dictionary copy
 
-![](images/kamus_kita_screenshot.png)
+<img src="/images/kamus_kita_screenshot.png" alt="KamusKita screenshot" style="max-width: 400px;"/>
 
 I really like Urban Dictionary (UD). I like its simplicity and straightforward-ness. I also like how they allow anyone to submit word definitions. So, I thought, why not make something like it for Malaysians? We have a lot of unique undocumented words. While UD have language selection when you submit a definition, it's still kinda too broad. I wanted to make something localized to Malaysians. Something that all of us can relate to.
 

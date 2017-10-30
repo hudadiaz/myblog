@@ -1,3 +1,3 @@
 this is my personal blog
 
-[link](http://zaidhuda.com "zaidhuda.com")
+[link](https://zaidhuda.com "zaidhuda.com")

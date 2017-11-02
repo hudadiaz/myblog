@@ -15,7 +15,7 @@ I love colors so much that I build this
 [Colored Time](https://colored-time.zaidhuda.com)
 Same reason;
 
->>colors are love, colors are life
+> colors are love, colors are life
 
 [PollEase](http://pollease.zaidhuda.com/)
 A polling app that actually has a mobile app lol

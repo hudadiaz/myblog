@@ -1,3 +1,8 @@
+---
+layout: post
+title: KamusKita Embedded
+---
+
 I added an embedding functionality to **Kamus**Kita so people can easily embed words in their website. I was inspired by Twitter and Facebook embedding functionality. It makes it convinient to directly present the word to your readers without having them to go to **Kamus**Kita themselves. As an example, the following is an embed taken from **Kamus**Kita:
 
 <iframe src='https://kamuskita.my/w/donedakwah/def/40/embed' width='500' height='307.8' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowTransparency='true'></iframe>

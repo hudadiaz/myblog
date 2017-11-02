@@ -5,7 +5,7 @@ description:    A dreamless selfless narcissist music loving programmer that has
 baseurl:        ""
 paginate:       5
 paginate_path:  "/blog/page:num"
-url:            https://www.zaidhuda.com
+_url:            https://www.zaidhuda.com
 
 # About/contact
 author:

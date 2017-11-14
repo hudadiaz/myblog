@@ -17,10 +17,13 @@ Same reason;
 
 > colors are love, colors are life
 
-[PollEase](http://pollease.zaidhuda.com/)
-A polling app that actually has a mobile app lol
-
 [FastPoll](http://fastpoll.zaidhuda.com/)
-A better version of PollEase
+A simple polling app
+
+[Nice Things to Hear](https://nicethingstohear.zaidhuda.com/)
+Website where you can read nice things and contribute back
+
+[Send Post Form](https://sendpostform.zaidhuda.com/)
+A simple server for static website forms
 
 Checkout my [github](https://github.com/hudadiaz) repository to see what I've done

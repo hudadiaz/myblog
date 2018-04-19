@@ -1,0 +1,9 @@
+<form action="{{ site.spf_url }}" method="POST">
+  <input required type="hidden" name="api_key" value="{{ site.spf_key }}">
+  <input required type="hidden" name="redirect_to" value="{{ site.spf_redirect }}">
+  <input required type="hidden" name="subject" value="{{ site.spf_subject }}">
+  <input required placeholder="Name" type="text" name="name">
+  <input required placeholder="Email" type="text" name="email">
+  <textarea required placeholder="Message" name="message" id="message" cols="10" rows="5"></textarea>
+  <button class="btn inverse">Submit</button>
+</form>

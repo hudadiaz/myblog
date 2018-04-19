@@ -7,6 +7,12 @@ paginate:       5
 paginate_path:  "/blog/page:num/"
 _url:            https://www.zaidhuda.com
 
+# send_post_form
+spf_url:      https://sendpostform.zaidhuda.com/messages
+spf_key:      87ecb55e468d472b9dd66225f51c4e0c
+spf_redirect: https://www.zaidhuda.com/contact
+spf_subject:  zaidhuda.com contact
+
 # About/contact
 author:
   name:       Zaid Huda

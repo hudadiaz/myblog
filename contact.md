@@ -12,5 +12,8 @@ You can contact me through the following platforms,
  - [twitter](https://twitter.com/hudadiaz)
  - [facebook](https://www.facebook.com/zaidhuda)
  - [linkedin](https://www.linkedin.com/in/zaid-huda)
+ - [email](mailto:hudadiaz@gmail.com)
 
-Or send an email to me@zaidhuda.com
+### Or write me message:
+
+{% include contact-form.html %}

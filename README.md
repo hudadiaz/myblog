@@ -1,3 +1,3 @@
-this is my personal blog
+# This is my personal blog
 
-[link](https://zaidhuda.com "zaidhuda.com")
+[zaidhuda.com](https://zaidhuda.com 'zaidhuda.com')

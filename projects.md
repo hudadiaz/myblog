@@ -8,7 +8,7 @@ published: true
 
 |Name|Description|
 | --- | --- |
-|[Kamus Kita](https://kamuskita.my)|A dictionary app|
+|[Kamus Kita](https://kamuskita.zaidhuda.com/)|A dictionary app|
 |[Colored](https://colored.zaidhuda.com)|I love colors so much that I build this|
 |[Colored Time](https://colored-time.zaidhuda.com)|Same reason.|
 |[FastPoll](http://fastpoll.zaidhuda.com/)|A simple polling app|

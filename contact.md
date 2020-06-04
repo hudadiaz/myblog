@@ -14,7 +14,3 @@ You can contact me through the following platforms,
  - [email](mailto:hudadiaz@gmail.com)
  
 You can also find me on [Instagram](https://www.instagram.com/hudadiaz/), if it's not work related.
-
-### Or write me message:
-
-{% include contact-form.html %}
